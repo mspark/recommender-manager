@@ -1,0 +1,9 @@
+urapi:
+    version: 0.2
+    title: Test Recommender
+
+recommender-engine:
+    cmd: kate
+    db-file-path: /home/marcel/file
+    #output-file: /home/marcel/testfile
+    max-wait: 10000
